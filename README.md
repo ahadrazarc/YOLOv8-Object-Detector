@@ -1,3 +1,7 @@
+<div align="center">
+  <img src="https://github.com/user-attachments/assets/56790f09-248a-4e74-a396-a5288201e01f" alt="yolov8log">
+</div>
+
 # YOLOv8-Object-Detector
 
 ## Overview
